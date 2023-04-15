@@ -14,7 +14,9 @@ and a string indicating the game state(ongoing, victory or defeat)
 ## Game Interface
 
 Two-dimensional game:
+
 <img width="803" alt="Screen Shot 2023-04-15 at 10 56 15" src="https://user-images.githubusercontent.com/105997889/232232446-0c1b132c-7d19-4dc0-b0bb-e3eedfd5de99.png">
 
 N-dimensional game: 
+
 <img width="811" alt="Screen Shot 2023-04-15 at 10 40 25" src="https://user-images.githubusercontent.com/105997889/232232296-1880b169-5f94-430c-a138-e474fea9fb57.png">
